@@ -60,4 +60,14 @@ $$Z' = 1 - \frac{3(\sigma_p + \sigma_n)}{|\mu_p - \mu_n|}$$
 ---
 
 ## 📧 Contact
-I am interested in roles involving **HTS automation**, **genomic pipeline modernization**, and **computational biology**. Reach out via GitHub or LinkedIn!
+I am a **Molecular Neurobiology Researcher** focused on the intersection of cellular assays and automated data discovery. While my primary expertise lies at the bench, I specialize in bridging the gap between wet-lab experimentation and computational analysis.
+
+**Research Interests:**
+
+**Molecular Neuroscience:** Investigating cellular specialization and gene expression in the brain.
+
+**Wet-Lab Automation:** Optimizing high-throughput screening (HTS) and molecular assays.
+
+**Genomic Pipeline Modernization:** Developing Python-based tools to accelerate the analysis of bench-generated data.
+
+I am seeking roles that allow me to contribute to molecular **neuroscience** research while leveraging my ability to build robust, reproducible data pipelines. Reach out via GitHub or LinkedIn!
