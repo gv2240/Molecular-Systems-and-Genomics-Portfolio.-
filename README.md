@@ -6,7 +6,7 @@
 ---
 
 ## 🔬 Project Overview
-This repository contains a modular collection of bioinformatics workflows transitioned from legacy instructional formats (R/Excel) into production-grade Python. It demonstrates the ability to handle biological data from the initial signal identification through to predictive modeling and statistical validation.
+This repository contains a modular collection of bioinformatics workflows transitioned from legacy instructional formats (R/Excel) into production-grade Python under the guidance of Dr. Manpreet Katari (NYU). It demonstrates the ability to handle biological data from the initial signal identification through to predictive modeling and statistical validation.
 
 
 
